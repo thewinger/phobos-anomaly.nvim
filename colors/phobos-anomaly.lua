@@ -76,7 +76,7 @@ hl["TermCursor"] = { link = "Cursor" }
 hl["Title"] = { link = "Directory" }
 hl["Todo"] = { link = "SpecialComment" }
 hl["Underlined"] = { underline = true }
-hl["Visual"] = { bg = pink1 }
+hl["Visual"] = { fg = gray10, bg = pink1 }
 hl["WarningMsg"] = { link = "Error" }
 hl["Whitespace"] = { link = "NonText" }
 hl["WinBar"] = { link = "Normal" }
@@ -98,7 +98,7 @@ hl["Number"] = { fg = red4 }
 hl["Operator"] = { fg = yellow2 }
 hl["PreProc"] = { link = "Normal" }
 hl["Special"] = { link = "Normal" }
-hl["String"] = { fg = grey10 }
+hl["String"] = { fg = gray10 }
 hl["Tag"] = { link = "Normal" }
 
 hl["Boolean"] = { link = "Constant" }
