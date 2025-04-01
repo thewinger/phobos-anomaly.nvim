@@ -25,6 +25,8 @@ local green3 = "#A8CFB5"
 local blue1 = "#566ab1"
 local blue2 = "#859CBB"
 local blue3 = "#98B4FE"
+local pink1 = "#f472b6"
+local pink2 = "#f9a8d4"
 
 vim.g.colors_name = "phobos-anomaly"
 
@@ -74,7 +76,7 @@ hl["TermCursor"] = { link = "Cursor" }
 hl["Title"] = { link = "Directory" }
 hl["Todo"] = { link = "SpecialComment" }
 hl["Underlined"] = { underline = true }
-hl["Visual"] = { bg = gray4 }
+hl["Visual"] = { bg = pink1 }
 hl["WarningMsg"] = { link = "Error" }
 hl["Whitespace"] = { link = "NonText" }
 hl["WinBar"] = { link = "Normal" }
