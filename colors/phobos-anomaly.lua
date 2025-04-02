@@ -92,7 +92,7 @@ hl["FloatTitle"] = { fg = blue3, bg = hl["NormalFloat"]["bg"] }
 --------------------------------------------------
 hl["Comment"] = { fg = gray7 }
 hl["Constant"] = { fg = red2 }
-hl["Function"] = { fg = blue3 }
+hl["Function"] = { fg = pink1 }
 hl["Keyword"] = { fg = blue2 }
 hl["Number"] = { fg = red4 }
 hl["Operator"] = { fg = yellow2 }
